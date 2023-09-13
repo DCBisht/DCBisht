@@ -1,77 +1,87 @@
-### Hi there 👋
+<p align="center">
+  <h1 align="center">Welcome to <a href="https://github.com/DCBisht">Divya Chakshul</a>'s Profile 👋</h1>
+</p>
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Blockchain+developer;I'm+a+competitive+programmer;I'm+a+Flutter+developer;I'm+a+Web+developer" /></a>
+</p>
+<p>I'm a Full Stack Web Developer, I'm a Competitive Programmer.</p>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<ul>
+  <li>👋 Hi, I’m Divya Chakshu Bisht</li>
+  <li>❤️ I love to bring ideas to browser.</li>
+  <li>🌱 I’m currently learning Web Development, Data Structures and Alogrithms, Machine Learning</li>
+  <li>💼 I'm a 4th year student at VIT</li>
+  <li>🧐 Portfolio Website, https://divyachakshu.netlify.app//</li>
+  <li>📫 How to Reach me, chakshubisht459@gmail.com</li>
+  <li>🔭 I'm currently deep diving into Hyper Automations.</li>
+  
+</ul>
 
-<!--
-**DCBisht/DCBisht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### A little more about me
+```javascript
+const DC = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Java", "HTML", "CSS", "Node"],
+  askMeAbout: ["web dev", "machine learning"],
+  technologies: {
+      frontend: ["HTML", "CSS", "JS", "Bootstrap","Tailwind CSS","SCSS"],
+      backend: ["Node,js", "Express.js"],
+      database: ["MongoDB", "Firebase"];
+  }
+}
+```
+## 🚀 Languages and Tools:
+|               |           |
+|       ---     |    ---    |
+| `Server Side Scripting`       |		![Firebase](https://img.shields.io/badge/-Firebase-E24800?style=for-the-badge&logo=firebase)  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)|
+| `Languages`   | ![JAVA](https://img.shields.io/badge/-C++-034D9A?style=for-the-badge&logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-1F65AC?style=for-the-badge&logo=Python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-307BBD?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-307BBD?style=for-the-badge&logo=solidity&logoColor=white)|
+| `Tools`       | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) ![Truffle](https://img.shields.io/badge/Truffle-682181?style=for-the-badge&logo=truffle&logoColor=white) ![Metamask](https://img.shields.io/badge/Metamask-682181?style=for-the-badge&logo=metamask&logoColor=white) ![Ganache](https://img.shields.io/badge/Ganache-682181?style=for-the-badge&logo=ganache&logoColor=white)|
 
-Here are some ideas to get you started:
+<!-- <p align="left"> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/ethereum.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" width="31" height="45"/> </a> 
+</p> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<br/>
+
+<p align="center">
+    <a href="https://github.com/DCBisht/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DCBisht's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DCBisht&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/DCBisht/github-readme-stats"><img alt="DCBisht's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DCBisht&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/DCBisht/github-readme-stats"><img alt="DCBisht's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCBisht&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="45px" height="40px">Divya Chakshu Bisht</h1>
-
-<h2 align="center">A passionate computer science student from India</h2>
-
-- I love❤ to make **exciting projects**. <br/>
-
-- I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
-
-- 💬 Ask me about **Javascript** & **CSS**
-
-- 👀 Cheak my  ||   <a href="https://leetcode.com/chakshubisht459/">LeetCode</a>
----
-	
-### 🛠 &nbsp;Languages and Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-
+<br/>
 <br/>
 
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DCBisht&show_icons=true&theme=algolia&include_all_commit=true&count_private=true"/> </div>
+<br/>
+<br/>
 
-<h3 align="center">Connect with me 🤝</h3>
-<body>
-    <div class="img1">
-<p align='center'>
-<a href="https://www.linkedin.com/in/divya-chakshu-bisht-527393203/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="5%" alt="Linkedin"></a>
-<a href="mailto:dcbisht459@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="5%" alt="Email"></a>
-<a href="https://t.me/this_dc" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width="5%"></a>   <a href="https://twitter.com/BishtChakshu?t=B5Km8rWSLz-ruu03oOzB5Q&s=09" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Twitter-icon.png" alt="twitter" width="5%"></a>   
-	
-<br>
-<br>
+## Connect with me:
+<p align="left">
 
+<a href = "https://www.linkedin.com/in/divya-chakshu/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/DCBisht"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<!-- <a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DCBisht&color=blueviolet&style=">
+</p>
 
-
-<img src="https://img.shields.io/github/followers/DCBisht.svg?style=social&label=Follow"></p>
-</div>	   	    
-	    
-Leave a ⭐ from [here](https://github.com/DCBisht/DCBisht) if you like 😁
-  
-  
-  
-  
-  
-  
+## ❤ Views and Followers
+<a href="https://github.com/DCBisht/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=DCBisht">
+</a>
